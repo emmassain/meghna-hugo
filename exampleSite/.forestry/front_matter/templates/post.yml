@@ -15,6 +15,12 @@ fields:
 - type: file
   name: image_webp
   label: image webp
+- name: take_me_home
+  type: text
+  config:
+    required: false
+  label: Take me home
+  description: You would someday foresee it
 - type: file
   name: image
   label: image
